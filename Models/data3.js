@@ -1,4 +1,4 @@
-class Data2{
+class Data3{
     constructor(info1, info2) {
         this.info1 = info1;
         this.info2 = info2;
@@ -10,4 +10,4 @@ class Data2{
     }
 }
 
-module.exports = Data2;
+module.exports = Data3;
